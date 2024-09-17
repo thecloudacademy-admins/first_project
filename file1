@@ -1,0 +1,8 @@
+This is my first file
+
+To view a file in Linux we use the following commands:
+- cat	= will show the entire file
+- head  = first 10 lines
+- tail	= last 10 lines
+- more	= first page/presentation at a time
+- less	= paragraph based.
